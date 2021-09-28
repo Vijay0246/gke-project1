@@ -4,7 +4,7 @@ kind: Service
 
 metadata:
   name: httpd-service
-  namespace: project1
+  namespace: argocd
 
 spec:
   type: LoadBalancer
